@@ -1,0 +1,196 @@
+body {
+	font-style: normal;
+	text-align: center;
+}
+
+div.nav-link-wrapper > a {
+	color: white;
+}
+
+h1, h2 {
+	font-weight: bold;
+}
+
+p, h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	font-weight: 900;
+}
+
+footer {
+	margin: 20px;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#navbarNav {
+	background: #000000;
+}
+
+.home {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.findtrend_outer {
+	max-width: 341.23px;
+	min-width: 291px;
+	max-height: 82px;
+	min-height: 69.93px;
+	margin: 8%;
+}
+
+.tab-background {
+	max-width: 502px;
+	max-height: 202px;
+	min-width: 339px;
+	min-height: 118px;
+	border-radius: 15px;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.findtrend-helps {
+	max-height: 584px;
+	min-height: 400px;
+	display: flex;
+	align-items: center;
+
+}
+
+img.logo-nav {
+	width: 170px;
+	height: 41px;
+	left: 0px;
+	top: 29px;
+}
+
+.socials > a > div > img {
+	width: 50%;
+}
+
+.search {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.navbar {
+	width: 100%;
+	height: 99px;
+}
+
+.nav-item {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.card {
+	width: 20rem;
+	min-height: 602px;
+	max-height: 640px;
+	padding: 20px;
+	border-radius: 16px;
+}
+
+.tab-wrapper {
+	margin: 80px;
+}
+
+.plan-wrapper {
+	margin: 50px;
+}
+
+.tab-content-wrapper {
+	padding: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: #181818;
+}
+
+.bg-green {
+	background: #A8FF35;
+}
+
+.home-section {
+	position: relative;
+	background-color: #000000;
+	max-height: 900px;
+	min-height: 812px;
+	max-width: 100%;
+	min-width: 300px;
+}
+
+.open_new_tabs {
+	min-height: 742px;
+}
+
+.findtrend_outer {
+	width: 30%;
+	height: 10%;
+	background-color: white;
+}
+
+
+div.Brands > div > img {
+	padding-top: 30px;
+	width: 266px;
+	height: 120px;
+	min-width: 162px;
+	min-height: 74px;
+}
+
+.btn {
+	border-radius: 30px;
+}
+
+.btn_start {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 16px 32px;
+	gap: 10px;
+}
+
+.join-us {
+	max-height: 539px;
+	min-height: 316px;
+
+	max-width: 100%;
+	min-width: 300px;
+}
+
+.footer {
+	margin-right: 100px;
+}
+
+.brands_section {
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.footer_link {
+	padding-left: 20px;
+	padding-right: 10px;
+}
+
+.posts {
+	background: #FAFAFA;
+	max-height: 2209px;
+	margin-bottom: 100px;
+}
+
+.card > .card-body > ul {
+	font-size: 18px;
+}
+
+section.posts > h2 {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
