@@ -9,7 +9,7 @@ div.nav-link-wrapper > a {
 
 h1, h2 {
 	font-weight: bold;
-	font-size: 4vw;
+	font-size: calc(130% + 1vw + 1vh);
 }
 
 p, h1, h2 {
@@ -17,7 +17,7 @@ p, h1, h2 {
 }
 
 h1 {
-	font-weight: 900;
+	font-weight: 800;
 }
 
 footer {
@@ -107,6 +107,10 @@ img.logo-nav {
 	margin: 50px;
 }
 
+.plans {
+	min-height: 1128px;
+}
+
 .tab-content-wrapper {
 	padding: 5px;
 	margin-top: 20px;
@@ -169,6 +173,7 @@ div.Brands > div > img {
 
 .footer {
 	margin-right: 100px;
+	margin-left: 100px;
 }
 
 .brands_section {
@@ -177,8 +182,11 @@ div.Brands > div > img {
 }
 
 .footer_link {
-	padding-left: 20px;
-	padding-right: 10px;
+	padding: 15px;
+}
+
+.footer-logo-link {
+	padding: 10px;
 }
 
 .posts {
@@ -191,7 +199,12 @@ div.Brands > div > img {
 	font-size: 18px;
 }
 
+.find-content-wrapper {
+	padding-top: 12px;
+}
+
 section.posts > h2 {
 	padding-top: 80px;
 	padding-bottom: 80px;
 }
+
