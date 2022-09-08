@@ -117,7 +117,8 @@ img.logo-nav {
 	margin-bottom: 20px;
 	background: #181818;
 	width: 300px;
-	border: 3px solid white;
+	position: absolute;
+	box-shadow: 3px 3px 3px 3px #000000;
 }
 
 .bg-green {
