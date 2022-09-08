@@ -39,6 +39,11 @@ img {
 	padding-bottom: 50px;
 }
 
+.get-started {
+	width: 160px;
+	height: 50px;
+}
+
 .findtrend_outer {
 	max-width: 341.23px;
 	min-width: 291px;
@@ -117,7 +122,6 @@ img.logo-nav {
 	margin-bottom: 20px;
 	background: #181818;
 	width: 300px;
-	position: absolute;
 	box-shadow: 3px 3px 3px 3px #000000;
 }
 
