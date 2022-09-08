@@ -112,10 +112,12 @@ img.logo-nav {
 }
 
 .tab-content-wrapper {
-	padding: 5px;
+	padding: 10px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	background: #181818;
+	width: 300px;
+	border: 3px solid white;
 }
 
 .bg-green {
@@ -211,4 +213,11 @@ section.posts > h2 {
 
 .arrow {
 	position: relative;
+	display: inline;
+}
+
+@media (min-width: 950px){
+	.even {
+		margin-top: 50px;
+	}
 }
