@@ -40,8 +40,10 @@ img {
 }
 
 .get-started > .btn{
+	position: absolute;
 	width: 160px;
 	height: 50px;
+	margin-top: 20px;
 }
 
 .findtrend_outer {
@@ -110,6 +112,11 @@ img.logo-nav {
 
 .plan-wrapper {
 	margin: 50px;
+}
+
+.all-research-wrapper {
+	position: relative;
+	left: 150px;
 }
 
 .plans {
@@ -231,7 +238,7 @@ section.posts > h2 {
 		margin-top: 50px;
 	}
 
-	.hero_text_wrapper {
+	.hero_text_wrapper, .solution {
 		width: 50%;
 	}
 
