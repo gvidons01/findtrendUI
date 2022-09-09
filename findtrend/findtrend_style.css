@@ -234,4 +234,15 @@ section.posts > h2 {
 	.hero_text_wrapper {
 		width: 50%;
 	}
+
+	.tab-background {
+		width: 402px;
+		height: 152px;
+	}
+}
+
+@media (max-width: 950px) {
+	.tab-background {
+		margin: 5px;
+	}
 }
