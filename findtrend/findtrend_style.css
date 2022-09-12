@@ -257,7 +257,7 @@ section.posts > h2 {
 	border-bottom: 1px solid #000000;
 }
 
-.card-body > h2, .card-body > ul > li > div {
+.card-body > h2, .card-body > ul > li > div, .card-head > h2, .card-head > p {
 	text-align: left;
 }
 
