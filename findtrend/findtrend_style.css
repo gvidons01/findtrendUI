@@ -262,6 +262,12 @@ section.posts > h2 {
 }
 
 @media (min-width: 950px){
+	.join-us > div > a {
+		width: 180px;
+		height: 57px;
+		margin-top: 50px;
+	}
+
 	.even {
 		margin-top: 50px;
 	}
@@ -287,6 +293,12 @@ section.posts > h2 {
 }
 
 @media (max-width: 950px) {
+	.join-us > div > a {
+		width: 106px;
+		height: 44px;
+		margin-top: 50px;
+	}
+
 	.tab-background {
 		margin: 5px;
 	}
