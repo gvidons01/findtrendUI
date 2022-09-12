@@ -192,6 +192,13 @@ div.Brands > div > img {
 	gap: 10px;
 }
 
+.socmed-wrapper {
+	background: #FFFFFF;
+	width: 124px;
+	height: 124px;
+	border-radius: 10px;
+}
+
 .join-us {
 	max-height: 539px;
 	min-height: 316px;
@@ -259,6 +266,11 @@ section.posts > h2 {
 
 .card-body > h2, .card-body > ul > li > div, .card-head > h2, .card-head > p {
 	text-align: left;
+}
+
+.socials {
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 @media (min-width: 950px){
