@@ -16,6 +16,10 @@ p, h1, h2 {
 	text-align: center;
 }
 
+p {
+	font-size: 17px;
+}
+
 h1 {
 	font-weight: 800;
 }
@@ -215,7 +219,7 @@ div.Brands > div > img {
 .posts {
 	background: #FAFAFA;
 	max-height: 2209px;
-	margin-bottom: 100px;
+	padding-bottom: 100px;
 }
 
 .card > .card-body > ul {
@@ -259,10 +263,30 @@ section.posts > h2 {
 		width: 402px;
 		height: 152px;
 	}
+
+	.join-us {
+		height: 539px;
+	}
+
+	.tab-content-wrapper {
+		margin: 2px;
+		width: 341px;
+		height: 82px;
+	}
 }
 
 @media (max-width: 950px) {
 	.tab-background {
 		margin: 5px;
+	}
+
+	.tab-content-wrapper {
+		margin: 2px;
+		width: 293px;
+		height: 70px;
+	}
+
+	.get-started {
+		margin-bottom: 150px;
 	}
 }
