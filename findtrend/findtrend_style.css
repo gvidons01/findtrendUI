@@ -9,7 +9,7 @@ div.nav-link-wrapper > a {
 
 h1, h2 {
 	font-weight: bold;
-	font-size: calc(130% + 1vw + 1vh);
+	font-size: calc(100% + 1.5vw + 1.5vh);
 }
 
 p, h1, h2, a {
