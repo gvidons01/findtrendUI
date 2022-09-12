@@ -9,7 +9,7 @@ div.nav-link-wrapper > a {
 
 h1, h2 {
 	font-weight: bold;
-	font-size: calc(100% + 1.5vw + 1.5vh);
+	font-size: calc(100% + 1vw + 1vh);
 }
 
 p, h1, h2, a {
@@ -228,8 +228,9 @@ div.Brands > div > img {
 
 .posts {
 	background: #FAFAFA;
-	max-height: 2209px;
+	height: 2209px;
 	padding-bottom: 100px;
+	padding-top: 100px;
 }
 
 .card > .card-body > ul {
@@ -252,7 +253,8 @@ section.posts > h2 {
 
 .deal_arrow {
 	position: relative;
-	left: 170px;
+	left: 200px;
+	bottom: 10px;
 }
 
 .arrow {
