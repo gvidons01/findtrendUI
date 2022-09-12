@@ -12,7 +12,7 @@ h1, h2 {
 	font-size: calc(100% + 1vw + 1vh);
 }
 
-p, h1, h2 {
+p, h1, h2, a {
 	text-align: center;
 }
 
@@ -81,7 +81,10 @@ img {
 	min-height: 400px;
 	display: flex;
 	align-items: center;
+}
 
+.findtrend-helps > h1 {
+	text-align: left;
 }
 
 img.logo-nav {
@@ -248,6 +251,14 @@ section.posts > h2 {
 .arrow {
 	position: relative;
 	display: inline;
+}
+
+.card-head {
+	border-bottom: 1px solid #000000;
+}
+
+.card-body > h2, .card-body > ul > li > div {
+	text-align: left;
 }
 
 @media (min-width: 950px){
