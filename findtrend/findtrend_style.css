@@ -108,6 +108,10 @@ img.logo-nav {
 	height: 99px;
 }
 
+.col > .active {
+	background: #A8FF35;
+}
+
 .nav-item {
 	padding-left: 10px;
 	padding-right: 10px;
