@@ -149,6 +149,7 @@ img.logo-nav {
 	background: #181818;
 	width: 300px;
 	box-shadow: 3px 3px 3px 3px #000000;
+	border-radius: 2px;
 }
 
 .bg-green {
@@ -257,7 +258,7 @@ section.posts > h2 {
 
 .deal_arrow {
 	position: relative;
-	left: 200px;
+	left: 170px;
 	bottom: 10px;
 }
 
@@ -277,6 +278,10 @@ section.posts > h2 {
 .socials {
 	margin-top: 50px;
 	margin-bottom: 50px;
+}
+
+.view_more {
+
 }
 
 @media (min-width: 950px){
