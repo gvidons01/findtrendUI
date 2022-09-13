@@ -281,7 +281,7 @@ section.posts > h2 {
 }
 
 .view_more {
-
+	margin: 50px;
 }
 
 @media (min-width: 950px){
