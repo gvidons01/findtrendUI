@@ -233,7 +233,7 @@ div.Brands > div > img {
 
 .posts {
 	background: #FAFAFA;
-	height: 2209px;
+	max-height: 2209px;
 	padding-bottom: 100px;
 	padding-top: 100px;
 }
